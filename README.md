@@ -22,7 +22,7 @@ At Detected AI, we focus on:
 
 ## 📫 Get in Touch
 
-
+https://x.com/IntelliTraceAI
 
 
 ---
