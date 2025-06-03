@@ -12,7 +12,7 @@
 
 ## 🚀 What We Do
 
-At Detected AI, we focus on:
+At IntelliTraceAI, we focus on:
 - **AI-driven tools** to optimize workflows.
 - **Custom machine learning models** tailored for your needs.
 - **Open-source projects** that drive community innovation.
