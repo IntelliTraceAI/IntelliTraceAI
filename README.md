@@ -2,7 +2,7 @@
   <img height="200" src="https://pbs.twimg.com/profile_banners/1863398050791649280/1736491081/1500x500"  />
 </div>
 
-# Detected AI 🤖
+# IntelliTraceAI 🤖
 
 ###
 
