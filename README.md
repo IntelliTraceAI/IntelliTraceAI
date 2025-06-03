@@ -22,8 +22,7 @@ At Detected AI, we focus on:
 
 ## 📫 Get in Touch
 
-- **Website**: [detected-ai.com]([https://detectedai.com](https://detected-ai.com/))
-- **Email**: [contact@detectedai.com](mailto:contact@detectedai.com)
+
 
 
 ---
