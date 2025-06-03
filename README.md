@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">At DetectedAI, we envision a world where computer vision technology enhances human capabilities and makes life safer, more efficient, and more intuitive. We're committed to developing cutting-edge AI solutions that bridge the gap between human perception and digital intelligence.<br><br>Every feature we develop is designed with our users in mind, focusing on intuitive interfaces and practical applications.</p>
+<p align="left">At IntelliTraceAI , we envision a world where computer vision technology enhances human capabilities and makes life safer, more efficient, and more intuitive. We're committed to developing cutting-edge AI solutions that bridge the gap between human perception and digital intelligence.<br><br>Every feature we develop is designed with our users in mind, focusing on intuitive interfaces and practical applications.</p>
 
 ###
 
